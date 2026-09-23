@@ -11,7 +11,7 @@ function Hero() {
         <div className={styles.hero_con}>
           <div className={styles.hero_info}>
             <p className={styles.text_1}>Hi, its' me</p>
-            <h3 className={styles.text_2}>John Doe</h3>
+            <h3 className={styles.text_2}>Arisa Proeskeaw</h3>
             <p className={styles.text_3}>
               <span style={{ marginRight: "10px" }}>I'm a</span>
               <TypeAnimation
